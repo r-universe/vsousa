@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "poolABC"]
+	path = poolABC
+	url = https://github.com/vsousa/poolabc
+[submodule "poolHelper"]
+	path = poolHelper
+	url = https://github.com/vsousa/poolhelper
